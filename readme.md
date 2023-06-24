@@ -21,3 +21,5 @@ After starting the client, the program runs as a service that periodically check
 Great care was taken to ensure the program does not do anything it shouldn't. Only the field of view value in the game's process is edited and nothing else. That is enforced by checking for the current value in the process and comparing it with the expected one. That way, if something unexpected happens, the program stops working rather than writing data to some unknown memory location.
 
 Therefore, as long as the server you are playing on does not directly check for the camera's field of view, it shouldn't be detected by the Warden anti-cheat. Still, I do not guarantee the safety of your characters, so use this at your own risk.
+
+I am also known as Dolkar (e.g. Felmyst forums) if you need to reach out to me.
