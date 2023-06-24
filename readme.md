@@ -6,7 +6,7 @@ Illustrations, comparisons and the code this is based on can be found [here](htt
 
 ### Usage
 
-This tool is very simple to use. You only need to copy the `WoWFoVFix.exe` next to the `Wow.exe` file in the game folder and use that instead of the game client to start the game. The program will run the WoW client by itself with the field of view values modified to better match your resolution. The executable requires Microsoft Visual C++ 2015 Redistributable to be installed. If you don't have it already or if you're getting missing dll errors, you can download it from [here](https://www.microsoft.com/en-us/download/details.aspx?id=52685) (the x86 one).
+This tool is very simple to use. You only need to copy the `WoWFoVFix.exe` next to the `Wow.exe` file in the game folder and run that as Administrator instead of the game client to start the game. The program will run the WoW client by itself with the field of view values modified to better match your resolution. The executable requires Microsoft Visual C++ 2015 Redistributable to be installed. If you don't have it already or if you're getting missing dll errors, you can download it from [here](https://www.microsoft.com/en-us/download/details.aspx?id=52685) (the x86 one).
 
 When used, the program creates a `WoWFoVFix.log` text file in the same directory that contains debug information of the last run. If you feel like the fix isn't working, check this log for any errors. Make sure it is used with the 2.4.3 version of the game client.
 
